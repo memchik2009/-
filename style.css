@@ -1,0 +1,27 @@
+p{
+    text-align: center;
+    font-size: larger;
+}
+.post{
+    text-align: center;
+}
+
+img{
+    
+    
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 2px   rgb(174, 238, 155);
+}
+body{
+    background-color: rgb(172, 166, 136);
+}
+h1{
+    color: rgb(174, 238, 155);
+}
+p{
+    color: rgb(174, 238, 155);
+}
+small{
+    color: rgb(174, 238, 155);
+}
